@@ -1,0 +1,30 @@
+{
+  "name": "fubo-videojs-hls.js",
+  "description": "video.js HLS Source Handler",
+  "main": [
+    "lib/vjs-hls.js"
+  ],
+  "dependencies": {
+    "video.js": "~5.7.1",
+    "hls.js": "~0.5.7"
+  },
+  "keywords": [
+    "hls",
+    "video",
+    "video.js",
+    "m3u8"
+  ],
+  "authors": [
+    "StreamRoot <contact@streamroot.io>",
+    "Roman Kurbatov <roman.kurbatov@vakoms.com>"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}

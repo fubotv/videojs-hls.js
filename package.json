@@ -1,15 +1,17 @@
 {
   "name": "fubo-videojs-hls.js",
   "author": "StreamRoot <contact@streamroot.io>",
-  "contributors": {
-    "name": "Roman Kurbatov",
-    "email": "roman.kurbatov@vakoms.com"
-  },
-  "version": "0.5.0",
+  "contributors": [
+    {
+      "name": "Roman Kurbatov",
+      "email": "roman.kurbatov@vakoms.com"
+    }
+  ],
+  "version": "0.6.1",
   "main": "./lib/vjs-hls.js",
   "scripts": {},
   "dependencies": {
-    "hls.js": "https://github.com/dailymotion/hls.js.git#v0.5.7"
+    "hls.js": "https://github.com/dailymotion/hls.js.git#v0.6.0"
   },
   "devDependencies": {
     "video.js": "^5.7.1"

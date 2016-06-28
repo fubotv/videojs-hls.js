@@ -1,6 +1,7 @@
 {
-  "name": "fubo-videojs-hls.js",
+  "name": "videojs-hls.js",
   "description": "video.js HLS Source Handler",
+  "version": "0.8.2",
   "main": [
     "lib/vjs-hls.js"
   ],

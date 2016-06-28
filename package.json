@@ -1,5 +1,5 @@
 {
-  "name": "fubo-videojs-hls.js",
+  "name": "videojs-hls.js",
   "author": "StreamRoot <contact@streamroot.io>",
   "contributors": [
     {
@@ -7,7 +7,7 @@
       "email": "roman.kurbatov@vakoms.com"
     }
   ],
-  "version": "0.8.1",
+  "version": "0.8.2",
   "main": "lib/vjs-hls.js",
   "scripts": {},
   "dependencies": {
